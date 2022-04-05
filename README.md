@@ -2,7 +2,7 @@
 
 - 🌱 Estudante de Ciência da Computação pela PUC-MINAS. 
 - 🤔 O desenvolvimento e apredizado com programação. 
-- 📫 How to reach me: rafaelradieddine@gmail.com  
+- 📫 rafaelradieddine@gmail.com  
 
 <div align="center">
   <a href="https://github.com/rfradieddine">
