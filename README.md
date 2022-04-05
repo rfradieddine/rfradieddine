@@ -1,6 +1,8 @@
-### Olá, sou o Rafael Radieddine e seja bem vindo ao meu perfil. 
- 
-# 
+### Hi, I'm Rafael Radieddine and welcome to my profile. 
+<center> Studying the 2nd period of Computer Science at PUC-MINAS college. </center>
+
+##
+
 <div align="center">
   <a href="https://github.com/rfradieddine">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfradieddine&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
