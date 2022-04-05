@@ -1,15 +1,12 @@
-### Opa, sou o Rafael Radieddine
-
-- 🌱 Estudante de Ciência da Computação pela PUC-MINAS. 
-- 🤔 O desenvolvimento e apredizado com programação. 
-- 📫 rafaelradieddine@gmail.com  
-
+### Olá, sou o Rafael Radieddine e seja bem vindo ao meu perfil. 
+ 
+# 
 <div align="center">
   <a href="https://github.com/rfradieddine">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfradieddine&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfradieddine&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rafael-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
