@@ -1,5 +1,5 @@
 ### Hi, I'm Rafael Radieddine and welcome to my profile. 
-<center> Studying the 2nd period of Software Engineering at PUC-MINAS college. </center>
+<center> Studying the 3nd period of Software Engineering at PUC-MINAS college. </center>
 
 ##
 
