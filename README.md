@@ -1,5 +1,6 @@
 ### Hi, I'm Rafael Radieddine and welcome to my profile. 
 <center> Web Development Intern </center>
+</br>
 <center> Studying the 4nd period of Software Engineering at PUC-MINAS college. </center>
 
 ##
