@@ -1,8 +1,8 @@
 ### Hi, I'm Rafael Radieddine and welcome to my profile. 
-<center> Web Development Intern </center>
+<center> Full Stack Developer </center>
 </br>
 </br>
-<center> Studying the 4nd period of Software Engineering at PUC-MINAS college. </center>
+<center> Studying the 5nd period of Software Engineering at PUC-MINAS college. </center>
 
 ##
 
