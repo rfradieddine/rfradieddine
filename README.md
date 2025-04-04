@@ -2,7 +2,7 @@
 <center> Full Stack Developer </center>
 </br>
 </br>
-<center> Studying the 5nd period of Software Engineering at PUC-MINAS college. </center>
+<center> Studying the 6nd period of Software Engineering at PUC-MINAS college. </center>
 
 ##
 
